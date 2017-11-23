@@ -1,0 +1,11 @@
+c:\users\kornext\documents\visual studio 2017\Projects\TestDB\TestDB\obj\Debug\TestDB.csprojResolveAssemblyReference.cache
+c:\users\kornext\documents\visual studio 2017\Projects\TestDB\TestDB\obj\Debug\TestDB.Form1.resources
+c:\users\kornext\documents\visual studio 2017\Projects\TestDB\TestDB\obj\Debug\TestDB.Properties.Resources.resources
+c:\users\kornext\documents\visual studio 2017\Projects\TestDB\TestDB\obj\Debug\TestDB.csproj.GenerateResource.Cache
+c:\users\kornext\documents\visual studio 2017\Projects\TestDB\TestDB\bin\Debug\TestDB.exe.config
+c:\users\kornext\documents\visual studio 2017\Projects\TestDB\TestDB\bin\Debug\TestDB.exe
+c:\users\kornext\documents\visual studio 2017\Projects\TestDB\TestDB\bin\Debug\TestDB.pdb
+c:\users\kornext\documents\visual studio 2017\Projects\TestDB\TestDB\obj\Debug\TestDB.exe
+c:\users\kornext\documents\visual studio 2017\Projects\TestDB\TestDB\obj\Debug\TestDB.pdb
+C:\Users\Kornext\Documents\Visual Studio 2017\Projects\TestDB\TestDB\obj\Debug\TestDB.DepartmentForm.resources
+C:\Users\Kornext\Documents\Visual Studio 2017\Projects\TestDB\TestDB\obj\Debug\TestDB.EmployeeForm.resources
